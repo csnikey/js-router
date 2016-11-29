@@ -1,0 +1,27 @@
+{
+  "name": "js-router",
+  "version": "1.0.0",
+  "description": "js路由器",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csnikey/js-router.git"
+  },
+  "keywords": [
+    "router",
+    "nodejs",
+    "controller"
+  ],
+  "author": "zhangbing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csnikey/js-router/issues"
+  },
+  "homepage": "https://github.com/csnikey/js-router#readme"
+}
